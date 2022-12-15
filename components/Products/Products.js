@@ -54,4 +54,3 @@ class Products {
 }
 
 let productsPage = new Products();
-productsPage.render();
